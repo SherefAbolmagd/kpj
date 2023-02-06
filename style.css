@@ -3,22 +3,22 @@
 ------------------------------------------------------- */
 
 .arrow-left {
-    border-right-color: #1b92fb;
+  border-right-color: #1b92fb;
 }
 
 #bbpress-forums li.bbp-header,
 #bbpress-forums li.bbp-footer {
-    border-top-color: #1b92fb !important;
+  border-top-color: #1b92fb !important;
 }
 
-.buddy_members .popover.top>.arrow:after,
-.buddy_carousel .popover.top>.arrow:after {
-    border-top: 10px solid #1b92fb !important;
+.buddy_members .popover.top > .arrow:after,
+.buddy_carousel .popover.top > .arrow:after {
+  border-top: 10px solid #1b92fb !important;
 }
 
 .tp-bullets.simplebullets .bullet:hover,
 .tp-bullets.simplebullets .bullet.selected {
-    border-color: #1b92fb !important;
+  border-color: #1b92fb !important;
 }
 
 .post-wrapper-top h2,
@@ -29,18 +29,18 @@
 .buddy_desc,
 .cat_widget:hover,
 .social_like .icon-container,
-.pagination>.active>a,
-.pagination>.active>span,
-.pagination>.active>a:hover,
-.pagination>.active>span:hover,
-.pagination>.active>a:focus,
-.pagination>li>a:hover,
-.pagination>li>span:hover,
-.pagination>li>a:focus,
-.pagination>li>span:focus,
-.pagination>.active>span:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus,
+.pagination > .active > span:focus,
 .form-control:focus,
-.panel-default>.panel-heading:hover,
+.panel-default > .panel-heading:hover,
 .bggrey,
 .services_vertical .icon-container,
 .item .icon-container,
@@ -55,19 +55,19 @@ blockquote,
 .service-icon-circle,
 .general-title hr,
 #forum table thead,
-.search-bar-top .top-searchbox .block-taxonomy-menu-block>h2,
+.search-bar-top .top-searchbox .block-taxonomy-menu-block > h2,
 .search-bar-top .top-searchbox,
 .search-bar-top .top-searchbox:hover .block-taxonomy-menu-block ul {
-    border-color: #1b92fb !important;
+  border-color: #1b92fb !important;
 }
 
 #header-style-1 .dropdown-menu,
 #header-style-1 .yamm .dropdown.yamm-fw .dropdown-menu {
-    border-top-color: #1b92fb !important;
+  border-top-color: #1b92fb !important;
 }
 
 #three-parallax .testimonial h3 {
-    color: #1b92fb !important;
+  color: #1b92fb !important;
 }
 
 .blog_button,
@@ -111,26 +111,26 @@ a.readmore,
 .group_box i,
 #topbar .callus i,
 #topbar .topbar-cart i {
-    color: #1b92fb;
+  color: #1b92fb;
 }
 
 .timeline-badge.danger,
 .flex-control-paging li a.flex-active,
 .tparrows:hover {
-    background-color: #1b92fb !important;
+  background-color: #1b92fb !important;
 }
 
 .demo_changer .demo-icon,
 .group_box:hover .circle,
 .buddy_carousel .owl-controls .owl-page.active span,
 .buddy_carousel .owl-controls.clickable .owl-page:hover span,
-.recent_posts_widget>li img:hover,
+.recent_posts_widget > li img:hover,
 .buddypress_tabber_widget_member li img:hover,
-#tabbed_widget .nav-tabs>li.active>a,
-#tabbed_widget .nav-tabs>li.active>a:hover,
-#tabbed_widget .nav-tabs>li.active>a:focus,
-#tabbed_widget .nav>li>a:hover,
-#tabbed_widget .nav>li>a:focus,
+#tabbed_widget .nav-tabs > li.active > a,
+#tabbed_widget .nav-tabs > li.active > a:hover,
+#tabbed_widget .nav-tabs > li.active > a:focus,
+#tabbed_widget .nav > li > a:hover,
+#tabbed_widget .nav > li > a:focus,
 #footer-style-1 .social-icons span a:hover,
 #footer-style-2 .social-icons span a:hover,
 #footer-style-3 .social-icons span a:hover,
@@ -182,81 +182,82 @@ h6 a:hover,
 #accordion-first .accordion-heading .accordion-toggle.active em,
 #accordion-second .accordion-heading .accordion-toggle.active em,
 mark,
-.pager li>a,
-.pager li>span,
+.pager li > a,
+.pager li > span,
 .make-bg-full,
-.pagination>.active>a,
-.pagination>.active>span,
-.pagination>.active>a:hover,
-.pagination>.active>span:hover,
-.pagination>.active>a:focus,
-.pagination>li>a:hover,
-.pagination>li>span:hover,
-.pagination>li>a:focus,
-.pagination>li>span:focus,
-.pagination>.active>span:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus,
+.pagination > .active > span:focus,
 #bbpress-forums li.bbp-body ul.forum li.bbp-forum-reply-count:hover,
 #bbpress-forums li.bbp-body ul.forum li.bbp-forum-topic-count:hover,
 .tagcloud a:hover,
-.nav-stacked>li>a:hover,
-.nav-stacked>li>a:focus,
-.nav-tabs>li.active>a:hover,
+.nav-stacked > li > a:hover,
+.nav-stacked > li > a:focus,
+.nav-tabs > li.active > a:hover,
 .buddy_members img:hover,
 .buddy_carousel img:hover,
-.nav-tabs>li.active>a:focus,
-.nav-tabs>li.active>a,
-#buddypress_features .nav-tabs>li>a:hover,
-#buddypress_features .nav-tabs>li>a:focus,
-#header-style-1 .navbar-nav>li>a:hover,
-#header-style-1 .navbar-nav>li>a:focus,
-#header-style-1 .navbar-nav>li>a:active,
-#header-style-1 .navbar-default .navbar-nav>.open>a,
-#header-style-1 .navbar-default .navbar-nav>.open>a:hover,
-#header-style-1 .navbar-default .navbar-nav>.open>a:focus,
-#quicktabs-tabbed_widget .quicktabs-tabs>li.active>a,
-#quicktabs-tabbed_widget .quicktabs-tabs>li.active>a:hover,
-#quicktabs-tabbed_widget .quicktabs-tabs>li.active>a:focus,
-#quicktabs-tabbed_widget .quicktabs-tabs>li>a:hover,
-#quicktabs-tabbed_widget .quicktabs-tabs>li>a:focus,
-.tb-megamenu .nav li.dropdown.active>.dropdown-toggle,
-.tb-megamenu .nav li.dropdown.open.active>.dropdown-toggle,
-.tb-megamenu .nav>li.dropdown.open.active>a:hover,
-.tb-megamenu .nav>li>a:focus,
-.tb-megamenu .nav>li>a:hover,
-.tb-megamenu .nav li.dropdown.open>.dropdown-toggle,
-.tb-megamenu .dropdown-menu .active>a,
-.tb-megamenu .dropdown-menu .active>a:hover,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a,
+#buddypress_features .nav-tabs > li > a:hover,
+#buddypress_features .nav-tabs > li > a:focus,
+#header-style-1 .navbar-nav > li > a:hover,
+#header-style-1 .navbar-nav > li > a:focus,
+#header-style-1 .navbar-nav > li > a:active,
+#header-style-1 .navbar-default .navbar-nav > .open > a,
+#header-style-1 .navbar-default .navbar-nav > .open > a:hover,
+#header-style-1 .navbar-default .navbar-nav > .open > a:focus,
+#quicktabs-tabbed_widget .quicktabs-tabs > li.active > a,
+#quicktabs-tabbed_widget .quicktabs-tabs > li.active > a:hover,
+#quicktabs-tabbed_widget .quicktabs-tabs > li.active > a:focus,
+#quicktabs-tabbed_widget .quicktabs-tabs > li > a:hover,
+#quicktabs-tabbed_widget .quicktabs-tabs > li > a:focus,
+.tb-megamenu .nav li.dropdown.active > .dropdown-toggle,
+.tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle,
+.tb-megamenu .nav > li.dropdown.open.active > a:hover,
+.tb-megamenu .nav > li > a:focus,
+.tb-megamenu .nav > li > a:hover,
+.tb-megamenu .nav li.dropdown.open > .dropdown-toggle,
+.tb-megamenu .dropdown-menu .active > a,
+.tb-megamenu .dropdown-menu .active > a:hover,
 #topbar .social-icons span a:hover,
 body .sidebar-shop-menu ul li a:hover,
 body .sidebar-shop-menu ul li a:focus,
-body .sidebar-shop-menu ul li.open>span>a,
+body .sidebar-shop-menu ul li.open > span > a,
 body #header-style-1 .dropdown-menu li a:focus,
 body #header-style-1 .dropdown-menu li a:active,
 body #header-style-1 .dropdown-menu li a:hover,
 #topbar .topbar-currency {
-    background-color: #1b92fb !important;
+  background-color: #1b92fb !important;
 }
 
-.tb-megamenu .nav>.active>a,
-.tb-megamenu .nav>.active>a:hover,
-.tb-megamenu .nav>.active>a:focus {
-    background: #1b92fb !important;
-    border-radius: 3px;
+.tb-megamenu .nav > .active > a,
+.tb-megamenu .nav > .active > a:hover,
+.tb-megamenu .nav > .active > a:focus {
+  background: #1b92fb !important;
+  border-radius: 3px;
 }
 
-.nav .open>a,
-.nav .open>a:hover,
-.nav .open>a:focus {
-    background-color: #1b92fb !important;
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: #1b92fb !important;
 }
 
 .flex-direction-nav a,
 .rsUni .rsThumb.rsNavSelected .thumbIco,
 .parallax-home1 .overlay,
 .custom-overlay {
-    background-color: rgba(52, 152, 219, 0.7);
+  background-color: rgba(52, 152, 219, 0.7);
 }
 
 a.navbar-brand {
-    background: url(../images/light_blue_logo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+  background: url(../images/light_blue_logo.png) no-repeat scroll left top
+    rgba(0, 0, 0, 0);
 }
